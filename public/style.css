@@ -1,0 +1,42 @@
+body {
+  background-color: #77CC00;
+  text-align: center  
+    
+}
+
+h1 {
+	font-family: Arial, serif;
+   font-size: 60px;
+   font-style: oblique;
+   color: #391FFF;
+   text-shadow: white 4px -4px 4px;
+}
+      
+label {
+	font-family: Arial serif;
+	font-size: 20px;
+   font-style: normal;
+   color: #0B0B61;
+}
+
+h3 {
+	font-family: Arial serif; 
+	font-size: 25px;
+   font-style: bold;
+   color: #ffffff;
+	border: 9px double #E2A9F3; 
+}
+
+h4 {
+	font-family: Arial sans-serif; 
+	font-size: 25px;
+   font-style: bold;
+   color: #B4045F;
+}
+
+h5 {
+	font: sans-serif; 
+	font-size: 30px;
+   font-style: oblique;
+   color: 2A0A12;
+}
